@@ -1,0 +1,80 @@
+{
+  "splash": {
+    "tracking": "Tracking",
+    "measure": "Measure",
+    "inc": "Increase",
+    "loading": "Loading...."
+  },
+  "on_boarding1": {
+    "title": "Tracking",
+    "desc": "Some description here about what should he explore here"
+  },
+  "on_boarding2": {
+    "title": "Measure",
+    "desc": "Some description here about what should he explore here"
+  },
+  "on_boarding3": {
+    "title": "Increase",
+    "desc": "Some description here about what should he explore here"
+  },
+  "next": "Next",
+  "skip": "Skip",
+  "you_can": "you can",
+  "auth": {
+    "login": {
+      "userName": "User Name",
+      "password": "Password",
+      "login": "Login",
+      "logout": "Log Out",
+      "orLoginWith": "Or Login with",
+      "facebook": "Facebook",
+      "apple": "Apple",
+      "google": "Google",
+      "doNotHaveAccount": "Don’t Have an Account?",
+      "email": "E-Mail",
+      "loginSuccessfully": "Login Successfully",
+      "loginFacebookSuccessfully": "Login Facebook Successfully",
+      "loginFacebookFailed": "login with facebook failed",
+      "signUp": "Sign up",
+      "userNotFound": "A user has not been found for this e-mail",
+      "wrongPassword": "Incorrect password for this user"
+    },
+    "signUp": {
+      "userName": "User Name",
+      "password": "Password",
+      "login": "Login",
+      "haveAnAccount": "Did you Have an Account?",
+      "signUp": "Sign Up",
+      "email": "E-Mail",
+      "textFieldError": "this field is required",
+      "signupSuccessfully": "Sign up Successfully",
+      "age": "Age",
+      "badPassword": "A user has not been found for this e-mail",
+      "alreadyUse": "Incorrect password for this user",
+      "deviceAddress": "Device Address",
+      "deviceId": "Device Id",
+      "save": "Save",
+      "dataSaved": "Data was saved"
+    }
+  },
+  "home": {
+    "title": "Home",
+    "crops": "Crops registered in",
+    "loc": "Badrashin, Giza, Egypt",
+    "humidity": "Humidity",
+    "ph": "Ph",
+    "co": "Co",
+    "temp": "Temp",
+    "tempPercent": "30",
+    "sanility": "Sanility",
+    "amonia": "Amonia",
+    "npk": "Npk",
+    "notfound": "Device not found"
+  },
+  "profile": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "ProfileTitle": "Edit Your Profile",
+    "SuccessUpdate": "Information Updated Successfully"
+  }
+}

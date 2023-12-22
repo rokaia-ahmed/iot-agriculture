@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865205848684",
+    "project_id": "iot-agriculture-faedb",
+    "storage_bucket": "iot-agriculture-faedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865205848684:android:eeb59e13e530eb8a816649",
+        "android_client_info": {
+          "package_name": "com.technospace.iot_agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865205848684-h4lr2cke2l6m9gcf7gmfmpjkbeio1jeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHofMXLIzkDJ1_6IJ5Gzdlhn2qlykI1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865205848684-h4lr2cke2l6m9gcf7gmfmpjkbeio1jeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

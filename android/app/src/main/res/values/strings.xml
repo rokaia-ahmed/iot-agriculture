@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iot app</string>
+    <string name="facebook_app_id">1785513791816453</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">2ddf77b805fb244dcc485bf920ad6ebe</string>
+</resources>
